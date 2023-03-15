@@ -1,2 +1,2 @@
-# ejercicioslistaspython
-Ejercicios con listas en Python
+# ejercicios usando listas en python
+Algunos ejercicios practicando  listas en Python
